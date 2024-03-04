@@ -3,8 +3,8 @@
 import os
 import sys
 
-# assuming your Django settings file is at '/home/myusername/mysite/mysite/settings.py'
-path = '/home/myusername/mysite'
+# assuming your Django settings file is at 'C:\Users\Acer\Documents\Practical WAD 2\Set1\KPMB\KPMB\settings.py'
+path = 'C:\Users\Acer\Documents\Practical WAD 2\Set1\KPMB\KPMB'
 if path not in sys.path:
     sys.path.insert(0, path)
 
