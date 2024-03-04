@@ -1,0 +1,22 @@
+1.setitng.py
+2.install , gunicorn , dj_database_url , psycorg2-binary , whitenoise
+3.procfile =web : gunicorn cocuricular.wsgi --log-file -
+4. runtime = python-3.10.11
+5. pip3 freeze>runtime.txt
+6.go to github , create new reporlancau
+7.gitbash here ,git init , git add . , git commit -m "" , git remote , git push
+8.refresh copy code , console
+9.git clone paste
+10.right click web side menu,add new app
+11.mkvirtualenv --python=/usr/bin/python3.10 cocuricularsite-virtualenv
+12.copy dalam kurungan ()
+13.paste dkt virtualenv
+14. pip install django
+15.change wsgi
+16.ls, cd , cd
+17.open file right click , bukk sampai nampak manage.py,copy path hten paste dkt wsgi
+18. pip install -r requirement.txt
+19.pegi setinggs file , copy cth =megatsaufi.pythonanywhere.com , masuk dalam allowed host
+20.python manage.py createsuperuser
+21.python manage.py migrate
+21. reload , tekan link kau besar ii
